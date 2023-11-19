@@ -1,0 +1,78 @@
+{
+  "en": [
+    {
+      "text": "Programming isn't about what you know; it's about what you can figure out.",
+      "author": "Chris Pine"
+    },
+    {
+      "text": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "text": "Sometimes it's better to leave something alone, to pause, and that's very true of programming.",
+      "author": "Joyce Wheeler"
+    },
+    {
+      "text": "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.",
+      "author": "Andrew Hunt"
+    },
+    {
+      "text": "Testing leads to failure, and failure leads to understanding.",
+      "author": "Burt Rutan"
+    },
+    {
+      "text": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "text": "The most damaging phrase in the language is.. it's always been done this way.",
+      "author": "Grace Hopper"
+    },
+    {
+      "text": "Java is to JavaScript what car is to Carpet.",
+      "author": "Chris Heilmann"
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    }
+  ],
+  "ru": [
+    {
+      "text": "Сегодня ты делаешь код, завтра код делает тебе деньги.",
+      "author": "Стив Джобс"
+    },
+    {
+      "text": "Если твой код работает, значит это хороший код.",
+      "author": "Маркус Перссон"
+    },
+    {
+      "text": "Настоящий программист гораздо больше читает, чем пишет.",
+      "author": "Линус Торвальдс"
+    },
+    {
+      "text": "Комментарии в коде должны быть похожими на кружевные трусики: маленькими, прозрачными, и оставляющими достаточно места для воображения.",
+      "author": "Марк Цукерберг"
+    },
+    {
+      "text": "Если бы Омар Хайям жил сейчас, он наверняка был бы пиратом.",
+      "author": "Ричард Мэттью Столлман"
+    },
+    {
+      "text": "Всегда начинайте со структуры данных.",
+      "author": "Джон Кармак"
+    },
+    {
+      "text": "Отдавайте распоряжения в письменном виде: программист вы, в конце концов, или нет?.",
+      "author": "Юкихиро Мацумото"
+    },
+    {
+      "text": "Не экономьте на дизайне: конечный пользователь ровным счётом ничего не понимает в программировании.",
+      "author": "Дастин Московиц"
+    },
+    {
+      "text": "Идеальному коду место в музее: там ценят всякие древности.",
+      "author": "Питер Нортон"
+    }
+  ]
+}
