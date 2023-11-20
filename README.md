@@ -1,5 +1,5 @@
 # Momentum
-[Live Demo](https://k-davydova.github.io/momentum/)
+[Live Demo](https://k-davydova.github.io/momentum/index.html)
 
 ## Overview
 
