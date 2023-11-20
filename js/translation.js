@@ -1,6 +1,6 @@
 export const weatherTranslation = {
   en: {
-    cityValue: 'Minsk',
+    cityValue: 'Tbilisi',
     windSpeed: 'Wind speed:',
     ms: 'm/s',
     humidity: 'Humidity:',
@@ -8,7 +8,7 @@ export const weatherTranslation = {
     name: 'Enter city',
   },
   ru: {
-    cityValue: 'Минск',
+    cityValue: 'Тбилиси',
     windSpeed: 'Скорость ветра:',
     ms: 'м/с',
     humidity: 'Влажность:',
