@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="assets/favicon.ico" rel="shortcut icon" />
+    <link rel="stylesheet" href="css/owfont-regular.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>momentum</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="player">
+        <audio src=""></audio>
+        <div class="player-controls">
+          <button class="play-prev player-icon"></button>
+          <button class="play player-icon"></button>
+          <button class="play-next player-icon"></button>
+        </div>
+        <ul class="play-list"></ul>
+      </div>
+      <div class="weather">
+        <input type="text" class="city" />
+        <i class="weather-icon owf"></i>
+        <div class="weather-error"></div>
+        <div class="description-container">
+          <span class="temperature"></span>
+          <span class="weather-description"></span>
+        </div>
+        <div class="wind"></div>
+        <div class="humidity"></div>
+      </div>
+    </header>
+    <main class="main">
+      <div class="slider-icons">
+        <button class="slide-prev slider-icon"></button>
+        <button class="slide-next slider-icon"></button>
+      </div>
+      <time class="time"></time>
+      <date class="date"></date>
+      <div class="greeting-container">
+        <span class="greeting"></span>
+        <input type="text" class="name" />
+      </div>
+    </main>
+    <footer class="footer">
+      <button class="settings-icon"></button>
+      <div class="settings">
+        <button class="language" value="en"></button>
+        <div class="bg-set">
+          <label class="label bg-label" for="bg-select"></label>
+          <select name="API" id="bg-select">
+            <option value="github">GitHub</option>
+            <option value="unplash">Unplash</option>
+            <option value="flickr">flickr</option>
+          </select>
+        </div>
+        <div class="bg-theme">
+          <label class="label theme-label" for="bg-input"></label>
+          <input type="text" name="bg-theme" id="bg-input" />
+        </div>
+        <div class="hidden-set">
+          <fieldset>
+            <legend class="hidden-text"></legend>
+            <div class="checkbox-field">
+              <div class="set">
+                <input type="checkbox" id="player-set" name="hidden" />
+                <label for="player-set" class="label player-label"></label>
+              </div>
+              <div class="set">
+                <input type="checkbox" id="weather-set" name="hidden" />
+                <label for="weather-set" class="label weather-label"></label>
+              </div>
+              <div class="set">
+                <input type="checkbox" id="watch-set" name="hidden" />
+                <label for="watch-set" class="label watch-label"></label>
+              </div>
+              <div class="set">
+                <input type="checkbox" id="data-set" name="hidden" />
+                <label for="data-set" class="label data-label"></label>
+              </div>
+              <div class="set">
+                <input type="checkbox" id="greeting-set" name="hidden" />
+                <label for="greeting-set" class="label greeting-label"></label>
+              </div>
+              <div class="set">
+                <input type="checkbox" id="quote-set" name="hidden" />
+                <label for="quote-set" class="label quote-label"></label>
+              </div>
+            </div>
+          </fieldset>
+        </div>
+      </div>
+      <div class="quote-container">
+        <button class="change-quote"></button>
+        <div>
+          <div class="quote"></div>
+          <div class="author"></div>
+        </div>
+      </div>
+    </footer>
+    <script src="js/script.js" type="module"></script>
+  </body>
+</html>
